@@ -12,3 +12,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+h3,h4,h5{
+  font-family: Arial;
+}
+.form-group label{
+  float: left;
+}
+.form-group input{
+  margin-bottom: 20px;
+}
